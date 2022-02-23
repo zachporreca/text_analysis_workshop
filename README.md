@@ -21,4 +21,4 @@ Packages for R can be installed as follows:
     4) Ensure that the "Install dependencies" box is checked
     5) Click install
     
- Here are some 
+ Here are some useful resources:

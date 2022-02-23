@@ -1,0 +1,1 @@
+Good morning everyone. Is it morning in Sardegna? My name is Zach. I am a PhD student at West Virginia University. Here the weather was cold and rainy yesterday. How is the weather there? Today, I will show you the basics of using text as data in R. 

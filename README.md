@@ -1,4 +1,4 @@
-# text_analysis_course
+# Text Analysis Workshop 
 
 
 Hey guys, it was fun getting to show you around the text analysis stuff. 

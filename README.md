@@ -22,3 +22,6 @@ Packages for R can be installed as follows:
     5) Click install
     
  Here are some useful resources:
+      [Regular expressions cheat sheet](https://github.com/zachporreca/text_analysis_course/blob/main/regex.pdf)
+      [Quanteda quick start guide](https://quanteda.io/articles/quickstart.html)
+      [Quanteda commands reference](https://quanteda.io/reference/index.html)

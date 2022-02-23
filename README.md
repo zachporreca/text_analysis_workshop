@@ -13,6 +13,7 @@ To replicate what we went over today you will need to do the following:
         2) quanteda
         3) quanteda.textplots
         4) ggplot2
+   4) The code is commented out so you are able to see what each section is intended to do/ what question it is answering
 
 Packages for R can be installed as follows:
     1) In RStudio's top menu choose "Tools"

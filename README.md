@@ -8,7 +8,7 @@ The data file I was using is a bit too large to store here on github, so instead
 To replicate what we went over today you will need to do the following:
    1) Download the main data file from the google drive link: [here](https://drive.google.com/drive/folders/1NTc5qe5u-pxAbaXNZvK4sWF7CBTBkYuv?usp=sharing)
    2) Download intro.txt and tutorial.r from the github folder
-   3) Installl the following packages for R:
+   3) Install the following packages for R:
         1) readtext
         2) quanteda
         3) quanteda.textplots

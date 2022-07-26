@@ -16,6 +16,7 @@ To replicate what we went over today you will need to do the following:
    4) The code is commented out so you are able to see what each section is intended to do/ what question it is answering
 
 Packages for R can be installed as follows:
+
     1) In RStudio's top menu choose "Tools"
     2) Select "Install Packages" from the drop down menu
     3) Enter the names of the packages you'd like to install (seperating each by a comma)
